@@ -1,0 +1,30 @@
+#Red
+{
+background-color:red;
+color:white;
+border-radius:100px;
+
+}
+#Blue
+{
+background-color:blue;
+color:yellow;
+border-color:yellow green beige pink;
+border-radius:20px;
+
+}
+#Green
+{
+background-color:Green;
+color:pink;
+border:10px black solid;
+border-color:blue pink pink pink;
+
+}
+.square
+{
+margin:50px;
+width:200px;
+height:200px;
+float:left;
+}
